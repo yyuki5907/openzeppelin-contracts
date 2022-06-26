@@ -1,6 +1,6 @@
 {
-  "tokenId": "1",
-  "name": "test 1",
+  "tokenId": "0",
+  "name": "test 0",
   "description": "test NFT MetaDeta",
-  "image": "https://raw.githubusercontent.com/mk1018/openzeppelin-contracts-my/master/image/1.jpg"
+  "image": "https://ipfs.io/ipfs/QmUAoGkcgVPMvqxTBeGfztnhyV4uCcnqDuLi9G3mLhCGUe?filename=QmUAoGkcgVPMvqxTBeGfztnhyV4uCcnqDuLi9G3mLhCGUe"
 }
